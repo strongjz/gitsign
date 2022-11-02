@@ -21,6 +21,7 @@ If you understand the risks, read on!
 
 ## What's stored in the cache
 
+
 - Ephemeral Private Key
 - Fulcio Code Signing certificate + chain
 
