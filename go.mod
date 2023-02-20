@@ -15,7 +15,7 @@ require (
 	github.com/mattn/go-tty v0.0.4
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/pborman/getopt v0.0.0-20180811024354-2b5b3bfb099b
-	github.com/secure-systems-lab/go-securesystemslib v0.4.0
+	github.com/secure-systems-lab/go-securesystemslib v0.5.0
 	github.com/sigstore/cosign v1.13.1
 	github.com/sigstore/fulcio v1.0.0
 	github.com/sigstore/rekor v1.0.0
@@ -192,7 +192,7 @@ require (
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/spf13/viper v1.13.0 // indirect
 	github.com/spiffe/go-spiffe/v2 v2.1.1 // indirect
-	github.com/stretchr/testify v1.8.0 // indirect
+	github.com/stretchr/testify v1.8.1 // indirect
 	github.com/subosito/gotenv v1.4.1 // indirect
 	github.com/syndtr/goleveldb v1.0.1-0.20220721030215-126854af5e6d // indirect
 	github.com/tent/canonical-json-go v0.0.0-20130607151641-96e4ba3a7613 // indirect
